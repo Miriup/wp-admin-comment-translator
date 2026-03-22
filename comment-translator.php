@@ -3,7 +3,9 @@
  * Plugin Name: Comment Translator & Spam Checker
  * Description: Adds an inline AI assessment panel to the WordPress comment moderation screen. Translates comments and checks for spam using the Anthropic API.
  * Version: 1.0
- * Author: Miriup
+ * Author: Dirk Tilger <dirk@systemication.com>
+ * License: GPL-2.0-or-later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
